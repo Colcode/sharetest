@@ -1,4 +1,4 @@
-package com.bqs.wetime.fruits;
+package com.sharesdk.test;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.bqs.wetime.fruits.R;
 
 import java.util.HashMap;
 

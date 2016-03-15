@@ -6,7 +6,7 @@
  * Copyright (c) 2013年 mob.com. All rights reserved.
  */
 
-package com.bqs.wetime.fruits.wxapi;
+package com.sharesdk.test.wxapi;
 
 import android.content.Intent;
 import android.widget.Toast;

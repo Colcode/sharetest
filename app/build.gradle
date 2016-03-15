@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.bqs.wetime.fruits.sharetest"
+        applicationId "com.sharesdk.test"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
